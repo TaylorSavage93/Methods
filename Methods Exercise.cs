@@ -15,7 +15,7 @@ var color = Console.ReadLine();
 Console.WriteLine($"{color} is also my favorite. what is your favorite animal?");
 var animal = Console.ReadLine();
 
-Console.WriteLine($"Thats interesting the {animal} is very cut. What is your favorite band?");
+Console.WriteLine($"Thats interesting the {animal} is very cute. What is your favorite band?");
 var band = Console.ReadLine();
 
 
