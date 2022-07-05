@@ -18,6 +18,9 @@ var animal = Console.ReadLine();
 Console.WriteLine($"Thats interesting the {animal} is very cute. What is your favorite band?");
 var band = Console.ReadLine();
 
+//---------Exercise 2---------//
+
+
 
 
 
